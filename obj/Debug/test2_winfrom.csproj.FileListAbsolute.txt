@@ -1,0 +1,10 @@
+D:\test2_winfrom\test2_winfrom\bin\Debug\test2_winfrom.exe.config
+D:\test2_winfrom\test2_winfrom\bin\Debug\test2_winfrom.exe
+D:\test2_winfrom\test2_winfrom\bin\Debug\test2_winfrom.pdb
+D:\test2_winfrom\test2_winfrom\obj\Debug\test2_winfrom.csproj.AssemblyReference.cache
+D:\test2_winfrom\test2_winfrom\obj\Debug\test2_winfrom.Form1.resources
+D:\test2_winfrom\test2_winfrom\obj\Debug\test2_winfrom.Properties.Resources.resources
+D:\test2_winfrom\test2_winfrom\obj\Debug\test2_winfrom.csproj.GenerateResource.cache
+D:\test2_winfrom\test2_winfrom\obj\Debug\test2_winfrom.csproj.CoreCompileInputs.cache
+D:\test2_winfrom\test2_winfrom\obj\Debug\test2_winfrom.exe
+D:\test2_winfrom\test2_winfrom\obj\Debug\test2_winfrom.pdb
